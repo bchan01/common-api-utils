@@ -1,7 +1,7 @@
 {
   "name": "common-api-utils",
   "version": "0.0.0",
-  "private": true,
+  "main": "./lib/index.js",
   "author" : "Brian Chan <brian.chan.01@gmail.com>",
   "description" : "Common Reusable Utilities",
   "contributors": [ ],
