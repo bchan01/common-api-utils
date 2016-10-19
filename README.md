@@ -8,4 +8,4 @@ Provides common utilities for building Node Express API.
 
 Usage: Add the following line to the dependencies section of the package.json file of your API project
 
-"common-api-utils": "git+https://github.com/bchan01/common-api-utils.git",
+"common-api-utils": "git+https://github.com/bchan01/common-api-utils.git#stable",
