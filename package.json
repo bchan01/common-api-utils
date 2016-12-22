@@ -16,6 +16,7 @@
     "morgan": "~1.6.1",
     "q": "^1.4.1",
     "bcrypt": "^0.8.6",
-    "jsonwebtoken": "^5.5.4"
+    "jsonwebtoken": "^5.5.4",
+    "mongoose": "^4.3.4"
   }
 }
