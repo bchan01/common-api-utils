@@ -2,7 +2,7 @@
 
 Provides common utilities for building Node Express API.
 
-* Common Middleware for handling REST API requests and responses
+* Utilities for handling REST API requests and responses
 * Generic CRUD service to MongoDB
 * JWT Token service
 
